@@ -14,6 +14,7 @@ git clone https://github.com/priyarao1995/Web_Application_Priya.git
 
 
 #Install virtualenvironment 
+#Check the website https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b to install virtualenv
 Activate virtual environment
 
 . venv/bin/activate
