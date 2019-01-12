@@ -6,7 +6,7 @@ Note : This is built  on Django 1.11 version
 
 Run Instructions
 ------------------
-As regards steps to running the project by other users :
+steps to running the project by other users :
 
 Clone the project
 
